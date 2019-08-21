@@ -60,6 +60,9 @@ node_modules/
 *.komodoproject
 .vscode/*
 
+# Ignore package-lock.json
+package-lock.json
+
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
