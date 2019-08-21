@@ -68,4 +68,7 @@ node_modules/
 !.gitignore
 !.editorconfig
 !.babelrc
+!.eslintignore
+!.eslintrc
+!.prettierrc
 !.phpcs.xml.dist
